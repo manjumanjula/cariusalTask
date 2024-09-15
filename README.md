@@ -11,7 +11,7 @@ First, clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository-name.git
+git clone (https://github.com/manjumanjula/cariusalTask/)
 cd your-repository-name
 2. Install Dependencies
 Navigate to the project directory and install the required dependencies:
